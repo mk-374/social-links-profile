@@ -1,0 +1,87 @@
+
+/* p.inter-<uniquifier> {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+
+.container {
+    background-color: hsl(0, 0%, 12%);
+    width: 345px;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(20%);
+    margin-bottom: 20%;
+    
+    /* margin: auto; */
+}
+
+button{
+    display: block;
+    color: hsl(0, 0%, 100%);
+}
+
+#image {
+    border-radius: 100px;
+    height: 90px;
+    position: relative;
+    left:38%;
+}
+
+#imagediv {
+    padding-top: 20px;
+}
+
+p {
+    font-size: 14px;
+    text-align: center;
+}
+
+#location {
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+}
+
+#goals {
+    color: hsl(0, 0%, 100%);
+    margin-top:30px;
+    font-weight: 400;
+}
+
+#name {
+    color: hsl(0, 0%, 100%);
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+p.inter-font {
+    font-family: "Inter", sans-serif;
+}
+
+button {
+    width:275px;
+    padding: 12px;
+    background-color: hsl(0, 0%, 20%);
+    margin-bottom: 15px;
+    border: 0;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+#buttons {
+    margin:30px 35px;
+    padding-bottom: 25px;
+}
+
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+  }
