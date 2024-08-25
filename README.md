@@ -9,8 +9,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mk-374/social-links-profile)
-- Live Site URL: [Add live site URL here](https://mk-374.github.io/social-links-profile/)
+- Solution URL: [Solution URL](https://github.com/mk-374/social-links-profile)
+- Live Site URL: [Live site URL](https://mk-374.github.io/social-links-profile/)
 
 ## My process
 I started with setting up the background and set up the container by adding all the items one after another. 
